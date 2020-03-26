@@ -1,14 +1,14 @@
 {
-    "projectName": "todolistwithamplify",
-    "version": "2.0",
+    "projectName": "todolistamplifynextj",
+    "version": "3.0",
     "frontend": "javascript",
     "javascript": {
         "framework": "react",
         "config": {
             "SourceDir": "src",
             "DistributionDir": "out",
-            "BuildCommand": "npm run-script build",
-            "StartCommand": "npm run-script start"
+            "BuildCommand": "npm.cmd run-script build",
+            "StartCommand": "npm.cmd run-script start"
         }
     },
     "providers": [

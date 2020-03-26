@@ -1,14 +1,15 @@
 {
-    "dev": {
+    "master": {
         "awscloudformation": {
-            "AuthRoleName": "todolistwithamplify-dev-20190908124025-authRole",
-            "UnauthRoleArn": "arn:aws:iam::182244167787:role/todolistwithamplify-dev-20190908124025-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::182244167787:role/todolistwithamplify-dev-20190908124025-authRole",
-            "Region": "eu-west-1",
-            "DeploymentBucketName": "todolistwithamplify-dev-20190908124025-deployment",
-            "UnauthRoleName": "todolistwithamplify-dev-20190908124025-unauthRole",
-            "StackName": "todolistwithamplify-dev-20190908124025",
-            "StackId": "arn:aws:cloudformation:eu-west-1:182244167787:stack/todolistwithamplify-dev-20190908124025/afe330d0-d21c-11e9-b05d-06982f8c16e4"
+            "AuthRoleName": "amplify-todolistamplifynextj-master-52612-authRole",
+            "UnauthRoleArn": "arn:aws:iam::078836763549:role/amplify-todolistamplifynextj-master-52612-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::078836763549:role/amplify-todolistamplifynextj-master-52612-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-todolistamplifynextj-master-52612-deployment",
+            "UnauthRoleName": "amplify-todolistamplifynextj-master-52612-unauthRole",
+            "StackName": "amplify-todolistamplifynextj-master-52612",
+            "StackId": "arn:aws:cloudformation:us-west-2:078836763549:stack/amplify-todolistamplifynextj-master-52612/3830a890-6ef4-11ea-9c77-06e1bfa6e222",
+            "AmplifyAppId": "d1a7zpjwytfqtu"
         }
     }
 }
